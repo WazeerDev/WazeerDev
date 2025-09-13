@@ -52,7 +52,9 @@ I build scalable web applications with passion and precision. Constantly explori
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=WazeerDev&style=for-the-badge)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WazeerDev&show_icons=true&theme=radical)
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=WazeerDev&style=for-the-badge)
 
 </div>
