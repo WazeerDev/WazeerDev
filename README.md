@@ -17,20 +17,20 @@ I build scalable web applications with passion and precision. Constantly explori
 <div align="center">
 
 ### Frontend
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.google.com/search?q=HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.google.com/search?q=CSS3)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.google.com/search?q=JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.google.com/search?q=TypeScript)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.google.com/search?q=TailWind)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.google.com/search?q=React.js)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.google.com/search?q=HTML5){:target="_blank" rel="noopener noreferrer"}
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.google.com/search?q=CSS3){:target="_blank" rel="noopener noreferrer"}
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.google.com/search?q=JavaScript){:target="_blank" rel="noopener noreferrer"}
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.google.com/search?q=TypeScript){:target="_blank" rel="noopener noreferrer"}
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.google.com/search?q=TailWind){:target="_blank" rel="noopener noreferrer"}
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.google.com/search?q=React.js){:target="_blank" rel="noopener noreferrer"}
 
 ### Backend
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://www.google.com/search?q=Node.js)
-[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.google.com/search?q=Express.js)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.google.com/search?q=MongoDB)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://www.google.com/search?q=GraphQL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WazeerDev)
-[![DevTools](https://img.shields.io/badge/DevTools-9ed5ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.google.com/search?q=DevTools)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://www.google.com/search?q=Node.js){:target="_blank" rel="noopener noreferrer"}
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.google.com/search?q=Express.js){:target="_blank" rel="noopener noreferrer"}
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.google.com/search?q=MongoDB){:target="_blank" rel="noopener noreferrer"}
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://www.google.com/search?q=GraphQL){:target="_blank" rel="noopener noreferrer"}
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WazeerDev){:target="_blank" rel="noopener noreferrer"}
+[![DevTools](https://img.shields.io/badge/DevTools-9ed5ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.google.com/search?q=DevTools){:target="_blank" rel="noopener noreferrer"}
 
 </div>
 
