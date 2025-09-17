@@ -50,7 +50,7 @@ For me, coding is where logic meets creativity.
 
 ## 📂 Featured Projects
 
-> 🚧 More projects coming soon! Stay tuned.
+> 💻 Check out more of my projects on [my personal website](https://wazeerdev.github.io)  
 
 ---
 
