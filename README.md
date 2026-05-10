@@ -49,7 +49,7 @@ For me, coding is where logic meets creativity.
 
 ## 📂 Featured Projects
 
-> 💻 Check out my projects on [my personal website](https://wazeerdev.great-site.net)  
+> 💻 Check out my projects on [my personal website](https://wazeerdev.great-site.net/#projects)  
 
 ---
 
